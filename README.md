@@ -25,7 +25,7 @@ List of software to host Java and Bedrock servers. Including mods, plugin suppor
         "versions": [ String ],
 
         // OPTIONAL: Jar url where you replace the {version} placeholder.
-        "url": "",
+        "url": String,
 
         // OPTIONAL: urls map in case of being specific for each version.
         "resources": {
