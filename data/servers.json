@@ -1,0 +1,520 @@
+{
+  "vanilla": {
+    "type": "server",
+    "url": "https://serverjars.com/api/fetchJar/vanilla/vanilla/{version}",
+    "versions": [
+      "1.19.4",
+      "1.19.3",
+      "1.19.2",
+      "1.19.1",
+      "1.19",
+      "1.18.2",
+      "1.18.1",
+      "1.18",
+      "1.17.1",
+      "1.17",
+      "1.16.5",
+      "1.16.4",
+      "1.16.3",
+      "1.16.2",
+      "1.16.1",
+      "1.16",
+      "1.15.2",
+      "1.15.1",
+      "1.15",
+      "1.14.4",
+      "1.14.3",
+      "1.14.2",
+      "1.14.1",
+      "1.14",
+      "1.13.2",
+      "1.13.1",
+      "1.13",
+      "1.12.2",
+      "1.12.1",
+      "1.12",
+      "1.11.2",
+      "1.11.1",
+      "1.11",
+      "1.10.2",
+      "1.10.1",
+      "1.10",
+      "1.9.4",
+      "1.9.3",
+      "1.9.2",
+      "1.9.1",
+      "1.9",
+      "1.8.9",
+      "1.8.8",
+      "1.8.7",
+      "1.8.6",
+      "1.8.5",
+      "1.8.3",
+      "1.8.2",
+      "1.8.1",
+      "1.8",
+      "1.7.10",
+      "1.7.9",
+      "1.7.8",
+      "1.7.7",
+      "1.7.6",
+      "1.7.5",
+      "1.7.4",
+      "1.7.3",
+      "1.7.2",
+      "1.7.1",
+      "1.7",
+      "1.6.4",
+      "1.6.3",
+      "1.6.2",
+      "1.6.1",
+      "1.6",
+      "1.5.2",
+      "1.5.1",
+      "1.5",
+      "1.4.7",
+      "1.4.6",
+      "1.4.5",
+      "1.4.4",
+      "1.4.3",
+      "1.4.2",
+      "1.4.1",
+      "1.4",
+      "1.3.2",
+      "1.3.1",
+      "1.3",
+      "1.2.5",
+      "1.2.4",
+      "1.2.3",
+      "1.2.2",
+      "1.2.1"
+    ]
+  },
+  "bukkit": {
+    "type": "server",
+    "url": "https://serverjars.com/api/fetchJar/servers/bukkit/{version}",
+    "versions": [
+      "1.19.4",
+      "1.19.3",
+      "1.19.2",
+      "1.19.1",
+      "1.19",
+      "1.18.2",
+      "1.18.1",
+      "1.18",
+      "1.17.1",
+      "1.17",
+      "1.16.5",
+      "1.16.4",
+      "1.16.3",
+      "1.16.2",
+      "1.16.1",
+      "1.15.2",
+      "1.15.1",
+      "1.15",
+      "1.14.4",
+      "1.14.3",
+      "1.14.2",
+      "1.14.1",
+      "1.14",
+      "1.13.2",
+      "1.13.1",
+      "1.13",
+      "1.12.2",
+      "1.12.1",
+      "1.12",
+      "1.11.2",
+      "1.11.1",
+      "1.11",
+      "1.10.2",
+      "1.10",
+      "1.9.4",
+      "1.9.2",
+      "1.9",
+      "1.8.8",
+      "1.8"
+    ]
+  },
+  "bungeecord": {
+    "type": "proxy",
+    "url": "https://serverjars.com/api/fetchJar/proxies/bungeecord/1.19",
+    "versions": [
+      "1.19",
+      "1.18",
+      "1.17",
+      "1.16",
+      "1.15",
+      "1.14",
+      "1.13",
+      "1.12",
+      "1.11",
+      "1.10",
+      "1.9",
+      "1.8"
+    ]
+  },
+  "catserver": {
+    "type": "modded",
+    "url": "https://serverjars.com/api/fetchJar/modded/catserver/{version}",
+    "versions": ["1.18.2", "1.16.5", "1.12.2"]
+  },
+  "crucible": {
+    "type": "modded",
+    "resources": {
+      "1.17.10": "https://github.com/CrucibleMC/Crucible/releases/download/reflux-v1/Crucible-1.7.10-reflux-1.0.jar"
+    },
+    "versions": ["1.7.10"]
+  },
+  "fabric": {
+    "type": "modded",
+    "url": "https://serverjars.com/api/fetchJar/modded/fabric/{version}",
+    "versions": [
+      "1.19.4",
+      "1.19.3",
+      "1.19.2",
+      "1.19.1",
+      "1.19",
+      "1.18.2",
+      "1.18.1",
+      "1.18",
+      "1.17.1",
+      "1.17",
+      "1.16.5",
+      "1.16.4",
+      "1.16.3",
+      "1.16.2",
+      "1.16.1",
+      "1.16",
+      "1.15.2",
+      "1.15.1",
+      "1.15",
+      "1.14.4",
+      "1.14.3",
+      "1.14.2",
+      "1.14.1",
+      "1.14"
+    ]
+  },
+  "flamecord": {
+    "type": "proxy",
+    "url": "https://serverjars.com/api/fetchJar/proxies/flamecord/{version}",
+    "versions": ["1.19"]
+  },
+  "forge": {
+    "type": "modded",
+    "url": "https://serverjars.com/api/fetchJar/modded/forge/{version}",
+    "versions": [
+      "1.19.4",
+      "1.19.3",
+      "1.19.2",
+      "1.19.1",
+      "1.19",
+      "1.18.2",
+      "1.18.1",
+      "1.18",
+      "1.17.1",
+      "1.16.5",
+      "1.16.4",
+      "1.16.3",
+      "1.16.2",
+      "1.16.1",
+      "1.15.2",
+      "1.15.1",
+      "1.15",
+      "1.14.4",
+      "1.14.3",
+      "1.14.2",
+      "1.13.2",
+      "1.12.2",
+      "1.12.1",
+      "1.12",
+      "1.11.2",
+      "1.11.1",
+      "1.10.2",
+      "1.10",
+      "1.9.4",
+      "1.9",
+      "1.8.9",
+      "1.8.8",
+      "1.8",
+      "1.7.10",
+      "1.7.2",
+      "1.6.4",
+      "1.6.2",
+      "1.6.1",
+      "1.5.2"
+    ]
+  },
+  "geyser": {
+    "type": "misc",
+    "resources": {
+      "latest": "https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/spigot"
+    },
+    "versions": ["latest"]
+  },
+  "glowstone": {
+    "type": "server",
+    "resources": {
+      "1.19": "https://repo.glowstone.net/service/rest/v1/search/assets/download?group=net.glowstone&name=glowstone&sort=version&repository=snapshots&maven.baseVersion=2022.6.1-SNAPSHOT&direction=desc&maven.classifier=",
+      "1.12.2": "https://github.com/GlowstoneMC/Glowstone/releases/download/2021.7.0/glowstone.jar"
+    },
+    "versions": ["1.19", "1.12.2"]
+  },
+  "leaves": {
+    "type": "server",
+    "resources": {
+      "1.19.4": "https://github.com/LeavesMC/Leaves/releases/download/1.19.4-f1ac54f/leaves-1.19.4.jar",
+      "1.19.3": "https://github.com/LeavesMC/Leaves/releases/download/1.19.3-2fe2913/leaves-1.19.3.jar"
+    },
+    "versions": ["1.19.4", "1.19.3"]
+  },
+  "limbo": {
+    "type": "misc",
+    "resources": {
+      "1.19.4": "https://ci.loohpjames.com/job/Limbo/34/artifact/target/Limbo-0.7.4-ALPHA-1.19.4.jar",
+      "1.19.3": "https://ci.loohpjames.com/job/Limbo/32/artifact/target/Limbo-0.7.2-ALPHA-1.19.3.jar",
+      "1.19.2": "https://ci.loohpjames.com/job/Limbo/24/artifact/target/Limbo-0.6.19-ALPHA-1.19.2.jar",
+      "1.19": "https://ci.loohpjames.com/job/Limbo/17/artifact/target/Limbo-0.6.16-ALPHA-1.19.jar",
+      "1.18.2": "https://ci.loohpjames.com/job/Limbo/15/artifact/target/Limbo-0.6.15-ALPHA-1.18.2.jar",
+      "1.18.1": "https://ci.loohpjames.com/job/Limbo/9/artifact/target/Limbo-0.6.11-ALPHA-1.18.1.jar",
+      "1.17.1": "https://ci.loohpjames.com/job/Limbo/1/artifact/target/Limbo-0.6.4-ALPHA-1.17.1.jar"
+    },
+    "versions": [
+      "1.19.4",
+      "1.19.3",
+      "1.19.2",
+      "1.19",
+      "1.18.2",
+      "1.18.1",
+      "1.17.1"
+    ]
+  },
+  "magma": {
+    "type": "modded",
+    "resources": {
+      "1.18.2": "https://git.magmafoundation.org/api/v4/projects/5/packages/maven/org/magmafoundation/Magma/1.18.2-40.2.1-92ec40a9/Magma-1.18.2-40.2.1-92ec40a9-server.jar",
+      "1.16.5": "https://git.magmafoundation.org/api/v4/projects/8/packages/maven/org/magmafoundation/Magma/1.16.5-36.2.39-c1c5a946/Magma-1.16.5-36.2.39-c1c5a946-server.jar",
+      "1.12.2": "https://git.magmafoundation.org/api/v4/projects/7/packages/maven/org/magmafoundation/Magma/1.12.2-d04e549e/Magma-1.12.2-d04e549e.jar"
+    },
+    "versions": ["1.18.2", "1.16.5", "1.12.2"]
+  },
+  "mohist": {
+    "type": "modded",
+    "url": "https://serverjars.com/api/fetchJar/modded/mohist/{version}",
+    "versions": ["1.19.3", "1.19.2", "1.18.2", "1.16.5", "1.12.2", "1.7.10"]
+  },
+  "nukkit": {
+    "type": "bedrock",
+    "resources": {
+      "latest": "https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/lastSuccessfulBuild/artifact/target/nukkit-1.0-SNAPSHOT.jar"
+    },
+    "versions": ["latest"]
+  },
+  "paper": {
+    "type": "server",
+    "url": "https://serverjars.com/api/fetchJar/servers/paper/{version}",
+    "versions": [
+      "1.19.4",
+      "1.19.3",
+      "1.19.2",
+      "1.19.1",
+      "1.19",
+      "1.18.2",
+      "1.18.1",
+      "1.18",
+      "1.17.1",
+      "1.17",
+      "1.16.5",
+      "1.16.4",
+      "1.16.3",
+      "1.16.2",
+      "1.16.1",
+      "1.15.2",
+      "1.15.1",
+      "1.15",
+      "1.14.4",
+      "1.14.3",
+      "1.14.2",
+      "1.14.1",
+      "1.14",
+      "1.13.2",
+      "1.13.1",
+      "1.13",
+      "1.12.2",
+      "1.12.1",
+      "1.12",
+      "1.11.2",
+      "1.10.2",
+      "1.9.4",
+      "1.8.8"
+    ]
+  },
+  "plazma": {
+    "type": "server",
+    "resources": {
+      "1.19.4": "https://github.com/PlazmaMC/Plazma/releases/download/latest-1.19.4/plazma-paperclip-1.19.4-R0.1-SNAPSHOT-reobf.jar"
+    },
+    "versions": ["1.19.4"]
+  },
+  "pocketmine": {
+    "type": "bedrock",
+    "url": "https://serverjars.com/api/fetchJar/bedrock/pocketmine/{version}",
+    "versions": [
+      "4.18.0",
+      "4.17.1",
+      "4.17.0",
+      "4.16.0",
+      "4.15.3",
+      "4.15.2",
+      "4.15.1",
+      "4.15.0",
+      "4.14.1",
+      "4.14.0",
+      "4.13.0",
+      "4.12.11",
+      "4.12.10",
+      "4.11.0",
+      "4.10.2",
+      "4.9.1",
+      "4.8.1",
+      "4.7.3"
+    ]
+  },
+  "pufferfish": {
+    "type": "server",
+    "resources": {
+      "1.19.4": "https://ci.pufferfish.host/job/Pufferfish-1.19/lastSuccessfulBuild/artifact/build/libs/pufferfish-paperclip-1.19.4-R0.1-SNAPSHOT-reobf.jar",
+      "1.18.2": "https://ci.pufferfish.host/job/Pufferfish-1.18/lastSuccessfulBuild/artifact/build/libs/pufferfish-paperclip-1.18.2-R0.1-SNAPSHOT-reobf.jar",
+      "1.17.1": "https://ci.pufferfish.host/job/Pufferfish-1.17/lastSuccessfulBuild/artifact/build/libs/Pufferfish-1.17.1-R0.1-SNAPSHOT.jar"
+    },
+    "versions": ["1.19.4", "1.18.2", "1.17.1"]
+  },
+  "purpur": {
+    "type": "server",
+    "url": "https://serverjars.com/api/fetchJar/servers/purpur/{version}",
+    "versions": [
+      "1.19.4",
+      "1.19.3",
+      "1.19.2",
+      "1.19.1",
+      "1.19",
+      "1.18.2",
+      "1.18.1",
+      "1.18",
+      "1.17.1",
+      "1.17",
+      "1.16.5",
+      "1.16.4",
+      "1.16.3",
+      "1.16.2",
+      "1.16.1",
+      "1.15.2",
+      "1.15.1",
+      "1.15",
+      "1.14.4",
+      "1.14.3",
+      "1.14.2",
+      "1.14.1"
+    ]
+  },
+  "quilt": {
+    "type": "modded",
+    "url": "https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/latest/quilt-installer-latest.jar",
+    "versions": ["1.19"],
+    "installer": {
+      "temp": true,
+      "execute": "{java} -jar quilt-installer-latest.jar install server {version} --download-server",
+      "archive": "./server",
+      "jar": "quilt-server-launch.jar"
+    }
+  },
+  "reaper": {
+    "type": "server",
+    "resources": {
+      "1.12.2": "https://github.com/ruViolence/Reaper/releases/download/v1.0.0/reaper-paperclip.jar"
+    },
+    "versions": ["1.12.2"]
+  },
+  "spigot": {
+    "type": "server",
+    "url": "https://serverjars.com/api/fetchJar/servers/spigot/{version}",
+    "versions": [
+      "1.19.4",
+      "1.19.3",
+      "1.19.2",
+      "1.19.1",
+      "1.19",
+      "1.18.2",
+      "1.18.1",
+      "1.18",
+      "1.17.1",
+      "1.17",
+      "1.16.5",
+      "1.16.4",
+      "1.16.3",
+      "1.16.2",
+      "1.16.1",
+      "1.15.2",
+      "1.15.1",
+      "1.15",
+      "1.14.4",
+      "1.14.3",
+      "1.14.2",
+      "1.14.1",
+      "1.14",
+      "1.13.2",
+      "1.13.1",
+      "1.13",
+      "1.12.2",
+      "1.12.1",
+      "1.12",
+      "1.11.2",
+      "1.11.1",
+      "1.11",
+      "1.10.2",
+      "1.10",
+      "1.9.4",
+      "1.9.2",
+      "1.9",
+      "1.8.8",
+      "1.8"
+    ]
+  },
+  "sponge": {
+    "type": "server",
+    "url": "https://serverjars.com/api/fetchJar/servers/sponge/{version}",
+    "versions": ["1.12.2", "1.12.1", "1.11.2", "1.10.2", "1.9.4", "1.8.9"]
+  },
+  "sportpaper": {
+    "type": "server",
+    "resources": {
+      "1.8.8": "https://github-registry-files.githubusercontent.com/143409883/21a61f00-bf74-11ed-85fc-424895833c5f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230326%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230326T035755Z&X-Amz-Expires=300&X-Amz-Signature=920edd1301864ff3dc00da11d29d80d7762d19dd7d387e93c59d2f66288680ed&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=143409883&response-content-disposition=filename%3Dsportpaper-1.8.8-R0.1-20230310.184658-9.jar&response-content-type=application%2Foctet-stream"
+    },
+    "versions": ["1.8.8"]
+  },
+  "tuinity": {
+    "type": "server",
+    "url": "https://serverjars.com/api/fetchJar/servers/tuinity/{version}",
+    "versions": ["1.17.1", "1.17", "1.16.5", "1.16.4", "1.16.3", "1.16.2"]
+  },
+  "velocity": {
+    "type": "proxy",
+    "url": "https://serverjars.com/api/fetchJar/proxies/velocity/{version}",
+    "versions": ["3.2.0", "3.1.2", "3.1.1", "3.1.0", "1.1.9", "1.0.10"]
+  },
+  "waterfall": {
+    "type": "proxy",
+    "url": "https://serverjars.com/api/fetchJar/proxies/waterfall/{version}",
+    "versions": [
+      "1.19",
+      "1.18",
+      "1.17",
+      "1.16",
+      "1.15",
+      "1.14",
+      "1.13",
+      "1.12",
+      "1.11"
+    ]
+  }
+}
