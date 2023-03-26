@@ -14,7 +14,7 @@ List of software to host Java and Bedrock servers. Including mods, plugin suppor
 
 `GET` [data/servers.json](data/servers.json)
 
-```json
+```jsonc
 {
     // Software ID, example bukkit, paper, spigot, vanilla, etc...
     "{software:id}": {
